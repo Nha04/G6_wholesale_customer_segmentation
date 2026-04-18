@@ -29,8 +29,11 @@ This project applies **unsupervised machine learning** to segment wholesale cust
 1. Clone this repository  
    ```bash
    git clone https://github.com/Nha04/G6_wholesale_customer_segmentation.git
+   ```
 2. Install dependencies
+   ```bash
    pip install -r requirements.txt
+   ```
 3. Launch Jupyter Notebook and run Group6_project.ipynb
 
 ## 📈 Key Visualizations
